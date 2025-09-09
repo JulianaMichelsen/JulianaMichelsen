@@ -1,21 +1,37 @@
-## Olá, sou a Juliana Michelsen👋
+# 👋 Olá, eu sou a Juliana Michelsen  
 
-<a href="https://github.com/julianamichelsen/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=julianamichelsen&show_icons=true&theme=radical"/>
+💻 Desenvolvedora apaixonada por tecnologia e aprendizado contínuo.  
+📊 Interesso-me por **backend, análise de dados** e **integrações entre sistemas**.  
+🚀 Atualmente estudando **Java, Python e PostgreSQL**.  
+
+---
+
+## 📈 Estatísticas
+<a href="https://github.com/julianamichelsen">
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=julianamichelsen&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/julianamichelsen/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=julianamichelsen&layout=compact&langs_count=8&card_width=320&theme=radical" />
+<a href="https://github.com/julianamichelsen">
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=julianamichelsen&layout=compact&langs_count=8&theme=radical" />
 </a>
 
+---
 
+## 🛠️ Tecnologias & Ferramentas
 <div style="display: inline_block"><br>
-  <img align="center" alt="postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">                   
+  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
-## 
+---
+
+## 🚀 Projetos em destaque
+- 📌 [Sudoku](https://github.com/JulianaMichelsen/Sudoku_java.git)
+
+---
+
+## 🌐 Onde me encontrar
 <div>
-  <a href = "mailto:juju.michelsen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/julianamichelsen" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:juju.michelsen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/julianamichelsen" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
