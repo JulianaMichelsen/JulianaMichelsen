@@ -5,12 +5,6 @@
 🚀 Atualmente estudando **Java, Python e PostgreSQL**.  
 
 ---
-<div>
-
-<img height="20" alt="SVG" src="https://julianamichelsen.github.io/image/graphic.svg?raw=true"/>GitHub Stats:
-
-<div align="center">
----
 
 ## 📈 Estatísticas
 <a href="https://github.com/julianamichelsen">
